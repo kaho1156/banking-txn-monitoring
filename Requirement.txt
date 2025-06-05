@@ -1,0 +1,5 @@
+pandas
+sqlite3
+faker
+matplotlib
+google-colab
