@@ -20,7 +20,9 @@ This project demonstrates how to detect suspicious or high-risk transactions usi
 - `/output` – sample visualizations and CSVs
 
 ## 📈 Sample Output
-![dashboard](assets/sample_dashboard.png)  <!-- upload image to assets/ -->
+![image](https://github.com/user-attachments/assets/d2089c72-f3d5-4dfc-a20c-1cb66630c03d)
+![image](https://github.com/user-attachments/assets/52c6aa45-1e73-4d4f-a516-f75955add1f9)
+
 
 ## 🚀 Getting Started
 1. Clone the repo
