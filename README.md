@@ -6,12 +6,11 @@ This project demonstrates how to detect suspicious or high-risk transactions usi
 - Threshold checks on cash and wire transactions
 - Identification of non-face-to-face activities
 - Detection of early-stage high-value activity
-- Power BI dashboard to visualize flagged transactions
+
 
 ## 🛠 Tools Used
 - Python (Pandas, SQLAlchemy)
 - SQLite
-- Power BI
 - Jupyter Notebook
 
 ## 📂 Folder Structure
@@ -27,4 +26,3 @@ This project demonstrates how to detect suspicious or high-risk transactions usi
 ## 🚀 Getting Started
 1. Clone the repo
 2. Run `python main.py` to process data
-3. Open the Power BI file to view dashboards
