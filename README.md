@@ -1,28 +1,10 @@
-# 🏦 Banking Transaction Monitoring
+📊 Data Visualization & Insights
+The system includes a visualization module to assist Compliance Officers in prioritizing investigations.
 
-This project demonstrates how to detect suspicious or high-risk transactions using synthetic bank data. It simulates real-world transaction scenarios and applies rule-based logic in Python and SQL.
+Key Metrics Visualized:
 
-## 📌 Key Features
-- Threshold checks on cash and wire transactions
-- Identification of non-face-to-face activities
-- Detection of early-stage high-value activity
+Alert Frequency by Tier: Identifies which customer segments (GOLD, SILVER, VIP) generate the most high-value cash alerts.
 
+Risk Value Overlay: A dual-axis chart that plots the total monetary exposure against the number of alerts, highlighting high-impact risk areas.
 
-## 🛠 Tools Used
-- Python (Pandas, SQLAlchemy)
-- SQLite
-- Jupyter Notebook
-
-## 📂 Folder Structure
-- `/data` – synthetic customer and transaction data
-- `/scripts` – Python ETL and logic scripts
-- `/output` – sample visualizations and CSVs
-
-## 📈 Sample Output
-![image](https://github.com/user-attachments/assets/d2089c72-f3d5-4dfc-a20c-1cb66630c03d)
-![image](https://github.com/user-attachments/assets/52c6aa45-1e73-4d4f-a516-f75955add1f9)
-
-
-## 🚀 Getting Started
-1. Clone the repo
-2. Run `python main.py` to process data
+Automated Reporting: Generates a high-resolution PNG dashboard for senior stakeholder reporting.
