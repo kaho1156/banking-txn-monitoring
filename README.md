@@ -20,4 +20,4 @@ Drawing from my **6+ years of experience** as a Compliance Manager at **HSBC** a
 - **Architecture:** Class-based Modular Design.
 
 ## 📈 Impact
-[cite_start]In my previous role, similar strategic process redesigns successfully **reduced case response time by 20%**. This project demonstrates the technical implementation of that efficiency gain.
+In my previous role, similar strategic process redesigns successfully **reduced case response time by 20%**. This project demonstrates the technical implementation of that efficiency gain.
