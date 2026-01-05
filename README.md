@@ -4,7 +4,7 @@
 This project is an **End-to-End (E2E) Compliance Surveillance Engine** built with Python and SQL. It simulates a core banking environment to detect suspicious financial activities, bridging the gap between traditional regulatory compliance and automated data engineering.
 
 ## 💼 Business Context
-[cite_start]Drawing from my **6+ years of experience** as a Compliance Manager at **HSBC** and **Bank of China**, I designed this system to automate the detection of "Red Flags" that typically require intensive manual review. This solution focuses on **scalability** and **detection accuracy**.
+Drawing from my **6+ years of experience** as a Compliance Manager at **HSBC** and **Bank of China**, I designed this system to automate the detection of "Red Flags" that typically require intensive manual review. This solution focuses on **scalability** and **detection accuracy**.
 
 ## 🚀 Key Features
 - **Data Ingestion:** Synthesizes high-volume transaction data and customer profiles using `Faker`.
